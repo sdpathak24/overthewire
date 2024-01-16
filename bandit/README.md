@@ -36,5 +36,18 @@ all that is written in <code>commands</code> are to be written in terminal
 <p><code>rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi</code></p>
 <p><code>ls</code></p>
 <p><code>"spaces in this filename"</code></p>
+<p><code>exit</code></p>
 <p> pswd: aBZ0W5EmUfAf7kHTQeOwd8bauFJ2lAiG</p>
-</details>.
+</details>
+
+<h2>level 3</h2>
+<details>
+<summary>ans</summary>
+<p><code>ssh bandit3@bandit.labs.overthewire.org -p 2220</code></p>
+<p><code>aBZ0W5EmUfAf7kHTQeOwd8bauFJ2lAiG</code></p>
+<p><code>ls</code></p>
+<p><code>cd inhere</code></p>
+<p><code>ls -a</code></p>
+<p><code>exit</code></p>
+<p> pswd: 2EW7BBsr6aMMoJ2HjW067dm8EgX26xNe</p>
+</details>
