@@ -4,7 +4,7 @@ Solutions for overthewire
 <h1>Bandit</h1>
 
 <h2>level 0</h2>
-tip: ssh username@website -p <port num>
+<p>tip: ssh username@website -p &ltport num$gt</p>
 
 <code>ssh bandit0@bandit.labs.overthewire.org -p 2220</code>
 
