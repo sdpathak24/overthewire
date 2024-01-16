@@ -25,5 +25,6 @@ all that is written in <code>commands</code> are to be written in terminal
 <p>the password is <code>NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL</code></p>
 <p><code>ls</code></p>
 <p><code>cat ./-</code></p>
+<p><code>exit</code></p>
 <p> pswd: rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi</p>
 </details>
