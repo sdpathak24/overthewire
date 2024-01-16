@@ -14,4 +14,5 @@ all that is written in <code>commands</code> are to be written in terminal
 <p>then, type <code>ls</code></p>
 <p><code>cat readme</code></p>
 <p><code>exit</code></p>
+<p> pswd: NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL</p>
 </details>
