@@ -79,3 +79,16 @@ all that is written in <code>commands</code> are to be written in terminal
 <p><code>exit</code></p>
 <p> pswd: P4L4vucdmLnm8I7Vl7jG1ApGSfjYKqJU</p>
 </details>
+
+<h2>level 6</h2>
+<details>
+<summary>ans</summary>
+<p><code>ssh bandit5@bandit.labs.overthewire.org -p 2220</code></p>
+<p><code>P4L4vucdmLnm8I7Vl7jG1ApGSfjYKqJU</code></p>
+<p>here, we have to find in the server</p>
+<p><code>find / -type f -user bandit7 -group bandit6 -size 33c</code></p>
+<p>/ is the root directory</p>
+<p><code>cat ./var/lib/dpkg/info/bandit7.password</code></p>
+<p><code>exit</code></p>
+<p> pswd: z7WtoNQU2XfjmMtWA8u5rN4vzqu4v99S</p>
+</details>
