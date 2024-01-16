@@ -83,7 +83,7 @@ all that is written in <code>commands</code> are to be written in terminal
 <h2>level 6</h2>
 <details>
 <summary>ans</summary>
-<p><code>ssh bandit5@bandit.labs.overthewire.org -p 2220</code></p>
+<p><code>ssh bandit6@bandit.labs.overthewire.org -p 2220</code></p>
 <p><code>P4L4vucdmLnm8I7Vl7jG1ApGSfjYKqJU</code></p>
 <p>here, we have to find in the server</p>
 <p><code>find / -type f -user bandit7 -group bandit6 -size 33c</code></p>
