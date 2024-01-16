@@ -1,6 +1,8 @@
 # overthewire
-Solutions for overthewire 
-all that is written in <code>commands</code> are to be written in terminal 
+
+Solutions for overthewire
+all that is written in <code>commands</code> are to be written in terminal
+
 <h1>Bandit</h1>
 
 <h2>level 0</h2>
@@ -63,4 +65,17 @@ all that is written in <code>commands</code> are to be written in terminal
 <p>cat every file<br>here <code>cat ./-file07</code></p>
 <p><code>exit</code></p>
 <p> pswd: lrIWWI6bB37kxfiCQZqUdOIYfr6eEeqR</p>
+</details>
+
+<h2>level 5</h2>
+<details>
+<summary>ans</summary>
+<p><code>ssh bandit5@bandit.labs.overthewire.org -p 2220</code></p>
+<p><code>lrIWWI6bB37kxfiCQZqUdOIYfr6eEeqR</code></p>
+<p><code>ls</code></p>
+<p><code>cd inhere</code></p>
+<p><code>find -size 1033c ! -executable</code></p>
+<p>c means files in bytes<br><code>cat ./maybehere07/.file2</code></p>
+<p><code>exit</code></p>
+<p> pswd: P4L4vucdmLnm8I7Vl7jG1ApGSfjYKqJU</p>
 </details>
