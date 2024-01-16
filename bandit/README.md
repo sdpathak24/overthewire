@@ -28,3 +28,13 @@ all that is written in <code>commands</code> are to be written in terminal
 <p><code>exit</code></p>
 <p> pswd: rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi</p>
 </details>
+
+<h2>level 2</h2>
+<details>
+<summary>ans</summary>
+<p><code>ssh bandit2@bandit.labs.overthewire.org -p 2220</code></p>
+<p><code>rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi</code></p>
+<p><code>ls</code></p>
+<p><code>"spaces in this filename"</code></p>
+<p> pswd: aBZ0W5EmUfAf7kHTQeOwd8bauFJ2lAiG</p>
+</details>.
