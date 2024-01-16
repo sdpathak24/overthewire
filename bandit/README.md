@@ -16,3 +16,13 @@ all that is written in <code>commands</code> are to be written in terminal
 <p><code>exit</code></p>
 <p> pswd: NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL</p>
 </details>
+
+<h2>level 1</h2>
+<p> always prefer relative pathname</p>
+<summary>ans</summary>
+<p><code>ssh bandit1@bandit.labs.overthewire.org -p 2220</code></p>
+<p>the password is <code>NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL</code></p>
+<p><code>ls</code></p>
+<p><code>cat ./-</p>
+<p> pswd: rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi</p>
+</details>
