@@ -18,7 +18,6 @@ all that is written in <code>commands</code> are to be written in terminal
 </details>
 
 <h2>level 1</h2>
-<p> always prefer relative pathname</p>
 <details>
 <summary>ans</summary>
 <p><code>ssh bandit1@bandit.labs.overthewire.org -p 2220</code></p>
