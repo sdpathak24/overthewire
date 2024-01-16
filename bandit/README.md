@@ -68,6 +68,7 @@ all that is written in <code>commands</code> are to be written in terminal
 </details>
 
 <h2>level 5</h2>
+<p>tip: enter <code>find --help</code> and try to write the parameters
 <details>
 <summary>ans</summary>
 <p><code>ssh bandit5@bandit.labs.overthewire.org -p 2220</code></p>
