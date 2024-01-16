@@ -47,6 +47,20 @@ all that is written in <code>commands</code> are to be written in terminal
 <p><code>ls</code></p>
 <p><code>cd inhere</code></p>
 <p><code>ls -a</code></p>
+<p><code>cat ./.hidden</code>
 <p><code>exit</code></p>
 <p> pswd: 2EW7BBsr6aMMoJ2HjW067dm8EgX26xNe</p>
+</details>
+
+<h2>level 4</h2>
+<details>
+<summary>ans</summary>
+<p><code>ssh bandit4@bandit.labs.overthewire.org -p 2220</code></p>
+<p><code>2EW7BBsr6aMMoJ2HjW067dm8EgX26xNe</code></p>
+<p><code>ls</code></p>
+<p><code>cd inhere</code></p>
+<p><code>ls -al</code></p>
+<p>cat every file<br>here <code>cat ./-file07</code></p>
+<p><code>exit</code></p>
+<p> pswd: lrIWWI6bB37kxfiCQZqUdOIYfr6eEeqR</p>
 </details>
