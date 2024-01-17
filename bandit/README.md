@@ -116,7 +116,7 @@ all that is written in <code>commands</code> are to be written in terminal
 <p><code>ls</code></p>
 <p><code>sort data.txt | uniq -c | grep '1 '</code></p>
 <p>sort sorts data in the file in alphanumeric order</p>
-<p> | is called piping where each command is executed one after in other</p>
+<p> | is called piping where each command is executed one after other in order</p>
 <p> uniq doesn't work properly unless they are sorted.</p>
 <p> -c shows count of how many times it was repeated and displyes entries once</p>
 <p> so we sort the data then through 'piping' we print repeated entries with their count and then find line with count 1 with grep</p>
