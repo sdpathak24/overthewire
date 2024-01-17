@@ -123,3 +123,18 @@ all that is written in <code>commands</code> are to be written in terminal
 <p><code>exit</code></p>
 <p> pswd: EN632PlfYiZbn3PhVK3XOGSlNInNE00t</p>
 </details>
+
+<h2>level 9</h2>
+<p>tip: enter <code>grep --help</code> and mess around
+<details>
+<summary>ans</summary>
+<p><code>ssh bandit9@bandit.labs.overthewire.org -p 2220</code></p>
+<p><code>EN632PlfYiZbn3PhVK3XOGSlNInNE00t</code></p>
+<p><code>ls</code></p>
+<p>First I did <code>grep '=' data.txt</code> cause I didn't understood what they had asked</p>
+<p>Then I did <code>cat data.txt</code> and found unreadable content</p>
+<p>so I did <code>grep --help</code> and tried various parameters</p>
+<p>Finally I tried <code>grep -a '= ' data.txt</code> and found the answer</p>
+<p><code>exit</code></p>
+<p> pswd: G7w8LIi6J3kTb8A7j9LgrywtEUlyyp6s</p>
+</details>
