@@ -93,3 +93,33 @@ all that is written in <code>commands</code> are to be written in terminal
 <p><code>exit</code></p>
 <p> pswd: z7WtoNQU2XfjmMtWA8u5rN4vzqu4v99S</p>
 </details>
+
+<h2>level 7</h2>
+<p>tip: enter <code>grep --help</code> and try to write the parameters
+<details>
+<summary>ans</summary>
+<p><code>ssh bandit7@bandit.labs.overthewire.org -p 2220</code></p>
+<p><code>z7WtoNQU2XfjmMtWA8u5rN4vzqu4v99S</code></p>
+<p><code>ls</code></p>
+<p><code>grep -i 'millionth' data.txt</code></p>
+<p>-i means to ignore case</p>
+<p><code>exit</code></p>
+<p> pswd: TESKZC0XvTetK0S9xNwm25STk5iWrBvP</p>
+</details>
+
+<h2>level 8</h2>
+<p>tip: you need to mess around with the commands given there
+<details>
+<summary>ans</summary>
+<p><code>ssh bandit8@bandit.labs.overthewire.org -p 2220</code></p>
+<p><code>TESKZC0XvTetK0S9xNwm25STk5iWrBvP</code></p>
+<p><code>ls</code></p>
+<p><code>sort data.txt | uniq -c | grep '1 '</code></p>
+<p>sort sorts data in the file in alphanumeric order</p>
+<p> | is called piping where each command is executed one after in other</p>
+<p> uniq doesn't work properly unless they are sorted.</p>
+<p> -c shows count of how many times it was repeated and displyes entries once</p>
+<p> so we sort the data then through 'piping' we print repeated entries with their count and then find line with count 1 with grep</p>
+<p><code>exit</code></p>
+<p> pswd: EN632PlfYiZbn3PhVK3XOGSlNInNE00t</p>
+</details>
