@@ -150,3 +150,15 @@ all that is written in <code>commands</code> are to be written in terminal
 <p><code>exit</code></p>
 <p> pswd: 6zPeziLdR2RKNdNYFNb6nVCKzphlXHBM</p>
 </details>
+
+<h2>level 11</h2>
+<p>tip: enter <code>tr --help</code>
+<details>
+<summary>ans</summary>
+<p><code>ssh bandit11@bandit.labs.overthewire.org -p 2220</code></p>
+<p><code>6zPeziLdR2RKNdNYFNb6nVCKzphlXHBM</code></p>
+<p><code>ls</code></p>
+<p><code>cat data.txt | tr 'A-Za-z' 'N-ZA-Mn-za-m'</code></p>
+<p><code>exit</code></p>
+<p> pswd: JVNBBFSmZwKKOP0XbFXOoW8chDz5yVRv</p>
+</details>
