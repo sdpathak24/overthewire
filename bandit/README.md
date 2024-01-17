@@ -138,3 +138,15 @@ all that is written in <code>commands</code> are to be written in terminal
 <p><code>exit</code></p>
 <p> pswd: G7w8LIi6J3kTb8A7j9LgrywtEUlyyp6s</p>
 </details>
+
+<h2>level 10</h2>
+<p>tip: enter <code>base64 --help</code>
+<details>
+<summary>ans</summary>
+<p><code>ssh bandit10@bandit.labs.overthewire.org -p 2220</code></p>
+<p><code>G7w8LIi6J3kTb8A7j9LgrywtEUlyyp6s</code></p>
+<p><code>ls</code></p>
+<p><code>base64 -d</code></p>
+<p><code>exit</code></p>
+<p> pswd: 6zPeziLdR2RKNdNYFNb6nVCKzphlXHBM</p>
+</details>
